@@ -13,3 +13,6 @@ params:
         url: "https://github.com/SodaiCMR"
       - name: "linkedin"
         url: "https://www.linkedin.com/in/daryl-boulou-77ba8b253/"
+caches:
+  images:
+    dir: :cacheDir/images
