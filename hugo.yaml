@@ -2,3 +2,14 @@ baseURL: https://sodaicmr.github.io/
 locale: en-us
 title: Daryl'Log
 theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    title: "Welcome to Daryl'Log 👋"
+    Content: |
+      Hi, this is Daryl BOULOU.
+      I'm documenting my learning notes and sharing my experiences in this blog.
+  socialIcons:
+      - name: "github"
+        url: "https://github.com/SodaiCMR"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/daryl-boulou-77ba8b253/"
